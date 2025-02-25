@@ -31,10 +31,8 @@ This project utilizes the YOLO (You Only Look Once) object detection model to tr
 4. Run the vehicle tracking Notebook
 
 ### Output:
-<video width="500" controls>
-  <source src="output/yolo_output.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Output GIF](output/yolo_output.gif/)
+
 
 - Annotated video with bounding boxes and speed of vehicles.
 - Vehicle count displayed in real-time.
