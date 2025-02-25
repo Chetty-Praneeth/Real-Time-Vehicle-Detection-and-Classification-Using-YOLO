@@ -42,3 +42,6 @@ This project utilizes the YOLO (You Only Look Once) object detection model to tr
 - Integrating license plate recognition.
 - Enhancing speed estimation using optical flow techniques.
 - Deploying the system as a web-based application.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
