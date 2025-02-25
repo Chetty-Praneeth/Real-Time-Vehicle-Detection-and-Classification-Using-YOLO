@@ -20,20 +20,15 @@ This project utilizes the YOLO (You Only Look Once) object detection model to tr
 
 1. Clone the repository:
     ```bash
-git clone https://github.com/yourusername/vehicle-tracking-yolo.git
+    git clone https://github.com/yourusername/vehicle-tracking-yolo.git
 
 2. Install dependencies
     ```bash
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3. Download YOLO weights and configuration files from the official YOLO repository
 
-4. Run the vehicle tracking script
-    ```bash
-python vehicle_tracking.py --video input.mp4
-
-# For real-time detection using a webcam
-python vehicle_tracking.py --webcam
+4. Run the vehicle tracking Notebook
 
 ### Output:
 <video width="500" controls>
